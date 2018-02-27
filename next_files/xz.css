@@ -1,0 +1,230 @@
+/*
+	Template borrowed from Michael Bernstein
+	Xia Zhou: www.cs.dartmouth.edu/~xia/xz.css
+*/
+
+
+
+@import 'https://fonts.googleapis.com/css?family=David+Libre';
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin:0px;
+	/* background-color: #D4DFDF; light blue: #becdd6, blue: #6F9CCE, cyan: #E0FFFF*/
+	background: rgb(45,60,73); /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(45,60,73,1) 0px, rgba(53,106,160,1) 800px); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0px,rgba(45,60,73,1)), color-stop(800px,rgba(53,106,160,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, rgba(45,60,73,1) 0px,rgba(53,106,160,1) 800px); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, rgba(45,60,73,1) 0px,rgba(53,106,160,1) 800px); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, rgba(45,60,73,1) 0px,rgba(53,106,160,1) 800px); /* IE10+ */
+	background: linear-gradient(top, rgba(45,60,73,1) 0px,rgba(53,106,160,1) 800px); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2d3c49', endColorstr='#356aa0',GradientType=0 ); /* IE6-9 */
+	background-color: rgba(53, 106, 160, 1);
+	background-repeat: no-repeat;
+	font-family:  'David Libre', serif;
+	font-size:13pt;
+	font-weight:normal;
+	text-align : center;
+	color:#333;
+	overflow-x: aotu;
+	overflow-y: scroll;	/* so the div doesn't move around depending 
+				   on whether it's tall enough to have a scrollbar */
+/*    transition: opacity ease-in 0.2s;
+    opacity: 0; 
+    display: block;
+    overflow: hidden; 
+    position: relative;*/
+}
+
+@font-face {
+	font-family: 'David Libre', serif;
+	src: url('https://fonts.googleapis.com/css?family=David+Libre');
+	font-weight: normal;
+	font-style: normal;
+}
+
+a {
+	text-decoration: none;
+	color:          #385792;
+	font-family:  'David Libre', serif;
+}
+
+a:hover {
+	color:			#6F9CCE;
+}
+
+.titletext {
+	color:#111;
+	font-size:30pt;
+	font-weight:normal;
+	text-align : left;
+	padding: 15px 0px;
+	font-family: 'David Libre', serif;
+	/* font-variant: small-caps; */
+    height: 80px;
+}
+
+.container700 {
+	/*width: 920px;*/
+    width:80%;
+	margin:30px auto;	/* used to center the div (known hack for IE) */
+	text-align: left;
+	border-style:solid;
+	border-width:2px;
+	border-color:#333;
+	background:#FFF;
+	padding: 0px 30px 30px 30px;
+	border-radius: 7px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	box-shadow: 10px 10px 30px #333333;
+	-webkit-box-shadow: 10px 10px 30px #333333;
+	-moz-box-shadow: 10px 10px 30px #333333;
+}
+
+.pubs {
+	font-size:8pt;
+}
+
+@media (max-width: 722px)
+{
+    .container700 {
+        width:578px;
+    }
+}
+
+@media (max-width: 642px)
+{
+    body{
+        background-size:642px;
+    }
+    .container700 {
+        width:578px;
+    }
+}
+
+@media (min-width: 1251px)
+{
+    .container700 {
+        width:1000px;
+    }
+}
+
+.content {
+	margin-left:150px;
+	padding: 0px 0px 0px 30px;
+
+}
+
+.picture-border {
+	border: 2px solid #ccc;
+	margin-left: 15px;
+	float: right;
+}
+
+#section-links {
+	float:left;
+	width: 150px;
+	background:#FFF;
+    text-align:     left;
+/*    border-right:   1px solid #aac; */
+}
+
+.bottom {
+	clear:	left;
+}
+
+.photo {
+	margin-left: 30px;
+}
+
+.frontpage-paper-container
+{
+	margin-top: 1.0em;
+	border-collapse: collapse;
+	padding: 0px;
+}
+
+.frontpage-paper-container td {
+	vertical-align: top;
+}
+
+.frontpage-paper-container .author {
+	color: gray;
+}
+
+.frontpage-paper-container .venue {
+	color: gray;
+	font-style: italic;
+}
+
+.frontpage-paper-container .paper-image {
+	width: 100px;
+	height: 70px;
+	border: 2px solid rgb(51, 51, 51);
+	margin-right: 5px;
+}
+
+.talk {
+	font-size: 80%;
+	line-height: 100%;
+}
+
+.talk .date {
+    font-size: 90%;
+}
+
+.talk tr {
+    vertical-align: top;
+}
+
+.old {
+    color: #aaaaaa;
+}
+
+.paper-title {
+	/*font-weight: bold;*/
+	font-family: 'David Libre', serif;
+}
+
+.paper-image {
+	float: none;
+	margin: 0px 15px 0px 0px;
+}
+
+h2 {
+	font-family: 'David Libre', serif;
+}
+
+.publication-lens .publication-title {
+	font-family: 'David Libre', serif;
+}
+
+div.section {
+	margin: 8px 0px;
+}
+
+.sectionContainer ul {
+	margin: 5px 0px;
+    padding-left: 12px;
+}
+
+.lowercase-number {
+	font-size: 80%;
+}
+
+.award {
+	font-variant: small-caps;
+	color: #CC0829;
+}
+.authors {
+	font-size: 80%;
+}
+.webfooter {
+    color: #FFFFFF;
+    font-size:0.8em;
+    text-align: center;
+}

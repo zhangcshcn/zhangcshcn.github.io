@@ -1,0 +1,107 @@
+FACEBOOK:
+    NY: Software Engineer, Intern/Co-op
+            Responsibilities
+                -Code high-volume software using primarily C++ and Java
+                -Create web applications using primarily PHP
+                -Implement web interfaces using XHTML, CSS, and JavaScript
+                -Build report interfaces and data feeds
+            Requirements
+                -Experience in C++, Java, Perl, PHP, or Python
+                -High levels of creativity and quick problem solving capabilities
+                -Preferred: Demonstrated software engineering experience from previous internship, work experience, coding competitions, or publications
+    NY: Research Intern (AI)
+            Responsibilities
+                -Perform research to advance the science and technology of intelligent machines
+                -Perform research that enables learning the semantics of data (images, video, text, audio, and other modalities)
+                -Devise better data-driven models of human behavior
+                -Contribute research that can be applied to Facebook product development
+            Requirements
+                -Publications or demonstrated experience in machine learning, AI, computer vision, optimization, computer science, statistics, applied mathematics, or data science
+                -Extensive experience solving analytical problems using quantitative approaches
+                -Comfort manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources
+                -A strong passion for theoretical and empirical research and for answering hard questions with research
+                -Ability to communicate complex research in a clear, precise, and actionable manner
+                -Fluency in C++, Java or other related programming language
+                -Experience building systems based on machine learning and/or deep learning methods
+    CA: Data Scientist, Analytics, Intern/Co-op
+            Responsibilities
+                -Mine massive amounts and perform large-scale data analysis to extract useful business insights
+                -Design and implement reporting dashboards that track key business metrics and provide actionable insights
+                -Identify actionable insights, suggest recommendations and influence the direction of the business by effectively communicating results to cross functional groups
+                -Work closely with a Product Manager and Engineering team to proactively create rule and manage decisions
+                -Backend software engineering to build scalable solutions and help automate data processing challenges
+                -Prioritize leads so that the teams work on the most valuable cases
+                -Suggest improvements in the tools and techniques to help scale the team
+            Requirements
+                -Experience in solving analytical problems using quantitative approaches (or equivalent)
+                -Experience with SQL or other programming languages (Python, Java, and/or C++)
+                -Development experience in at least one scripting language (PHP, Perl, Python, etc.)
+                -Experience with statistical analysis, experience with packages such as R, MATLAB, Excel, etc. preferred
+    CA: Software Engineer, Intern/Co-op (WhatsApp)
+            Responsibilities
+                -Work on a very small team to create new, awesome features for millions of users
+                -Write efficient, maintainable code for mobile phones
+                -Own release and QA cycles of your code
+            Requirements
+                -Pursuing BS, MS or PhD in Computer Science or related field
+                -Experience with Java, Objective-C, C#, or C/C++ programming and debugging skills
+                -Passionate about user experience
+                -Android, iOS, or Windows Phone development experience is strongly preferred, but not required
+                -Working experience with networking and messaging protocols is strongly preferred, but not required
+
+COURSERA:
+    CA: Software Engineer - Intern
+        TEAM: 
+            -Infrastructure-- The Infrastructure team builds the backbone of Coursera's learning platform. They handle all service infrastructure, site operations, frameworks, online data storage, developer tooling and continuous delivery across the full stack.  Continuous deployment, server side rendering and graphQL are some of the most recent challenges they are tackling.
+            -Data Infrastructure-- The Data Infrastructure team within Analytics does whatever it takes to track data and leverage data. Their projects include data warehousing, A/B testing, logging libraries within our product, and internal tools for data analysis. Interns on this team have the opportunity to learn a variety of software methodologies, from building full stack tools to data transformations.
+        
+        Required Skills:
+            -Must have at least 2 years of Computer Science classes under your belt
+
+CLOUDERA: 
+    CA: Software Engineer Intern (literally nothing on the internet)
+        Preferred qualifications
+           -Experience in systems, software or algorithms.
+           -Excellent implementation skills (C++, Java, Python).
+           -Knowledge of UNIX/Linux or Windows environments and APIs.
+    ·      -Familiarity with TCP/IP and network programming.
+
+GOOGLE:
+    CA: Software Engineering Intern
+        TEAMS:
+            -Product and Systems Development 
+            -Engineering Productivity: testbench
+            -Site Reliability 
+        Preferred qualifications:
+            -Experience in systems software.
+            -Expected graduation date in the Spring/Summer of 2018 or late Fall/Winter 2017.
+            -Completed projects or classes focused on Data Structures and Algorithms.
+            -Knowledge of Unix/Linux or Windows environment, and APIs.
+            -Familiarity with TCP/IP and network programming.
+            -Implementation skills (C++, C, Java, Python).
+PALO ALTO NETWORKS:
+    CA: Dataplane Software Team, Intern
+            Job Requirements:
+                -Strong C programming experience required
+                -Strong scripting skills with bash or python required
+                -Knowledge of Linux OS and device drivers preferred
+                -Must be pursuing a 4 year Undergraduate Degree or 2 year Masters Degree preferred
+                -Must have authorization to work in the United States
+                -Strong written and verbal communication
+
+NVIDIA:
+    CA: DATA SCIENCE INTERN
+        REQUIREMENTS:
+            -Solid programming skills in Python or Perl and experience working with SQL databases required
+            -Experience with machine learning techniques and statistical tools like R, Stata, SAS
+            -Experience with the Hadoop ecosystem and Python machine learning libraries is a plus
+            -A passion for problem-solving, developing creative solutions, and continuous learning
+    CA: MACHINE LEARNING SOFTWARE INTERN
+        Minimum Requirements:
+            -Familiarity with concepts from Machine Learning, Computer Vision, or Artificial Intelligence.
+            -Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.
+            -Strong background in computer architecture and system software.
+            -Excellent analytical skills
+            -GPU programming experience (CUDA or OpenCL) desired but not required
+
+
